@@ -1,11 +1,3 @@
-Nice, we’re wiring the whole brain together now 😄
-
-Let’s set up VS Code + GitHub so it matches your LangGraph playground / thesis / ADHD-friendly workflow, not just “generic Python project.”
-
-I’ll walk you through it in clear stages:
-
-⸻
-
 0. Big picture: what you’re building
 
 You want VS Code + GitHub to mirror this mental model:
@@ -245,9 +237,3 @@ source .venv/bin/activate
 	7.	Update Heptabase: Pattern Card + Code Gallery card + any experiment results.
 
 That’s it. No overthinking.
-
-⸻
-
-If you want, next step we can design:
-	•	A thesis-agent-system repo layout tailored to coordination/communication experiments (folders for configs, runs, metrics, etc.)
-	•	Or a tasks.json+launch.json in VS Code so you can run common scripts with one click / shortcut instead of typing full commands.
